@@ -1,2 +1,2 @@
 # CL GIT AND GITHUB
-This is a file to show how Git and Github works
+This is a demo project to show how Git and Github works
